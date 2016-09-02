@@ -17,5 +17,5 @@ I currently teach at Oakland Technical High School in Oakland, CA. I'm new to bl
 
 ### If you want a haircut (click):
 
-<a href="https://www.shearjinius.com/">
+<a href="http://shearjinius.com/">
 <img border="0" alt="Shear Ji-nius" src="http://i.imgur.com/Lfj8K3K.png">
