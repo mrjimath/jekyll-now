@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :) + math
+title: Jekyll and Hi
 ---
 
 I'm so excited to start blogging about math and teaching.
