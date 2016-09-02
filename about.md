@@ -11,10 +11,13 @@ I currently teach at Oakland Technical High School in Oakland, CA. I'm new to bl
 <a href="https://www.instagram.com/mrjimath/">
 <img border="0" alt="How To Be A Mr. Ji" src="http://i.imgur.com/AifuXIe.jpg" width="300" height="300">
 
-### If you want to talk with me:
+### If you want to talk with me privately:
 
-<p>Email: [kevinseanji@gmail.com](mailto:kevinseanji@gmail.com)
-<p>Twitter: [@mrjimath](https://twitter.com/mrjimath)
+[kevinseanji@gmail.com](mailto:kevinseanji@gmail.com)
+
+### If you want to talk with me publicly:
+
+[@mrjimath](https://twitter.com/mrjimath)
 
 ### If you want a haircut (click):
 
