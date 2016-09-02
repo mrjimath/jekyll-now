@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I currently teach at Oakland Technical High School in Oakland, CA. I'm new to blogging and am still toying around with this site to make it something I really love. Bear with me!
 
-### More Information
+### If you want to be like me:
 
-A place to include any other types of information that you'd like to include about yourself.
+<IMG SRC="http://i.imgur.com/AifuXIe.jpg" ALT="How To Be A Mr. Ji">
 
-### Contact me
+### If you want to email me:
 
-[email@domain.com](mailto:email@domain.com)
+[kevinseanji@gmail.com](mailto:kevinseanji@gmail.com)
+
+### If you want a haircut:
+
+<a href="www.shearjinius.com">
+<img border="0" alt="Shear Ji-nius" src="http://i.imgur.com/Lfj8K3K.png">
