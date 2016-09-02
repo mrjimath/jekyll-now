@@ -12,7 +12,7 @@ I currently teach at Oakland Technical High School in Oakland, CA. I'm new to bl
 
 ### If you want to talk with me publicly:
 
-[@mrjimath](https://twitter.com/mrjimath)
+<a href="https://twitter.com/mrjimath" target="_blank">@mrjimath</a>
 
 ### If you want to be like me:
 
