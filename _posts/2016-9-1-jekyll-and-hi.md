@@ -5,11 +5,11 @@ title: Jekyll and Hi
 
 I'm so excited to start blogging about math and teaching.
 
-I'm also excited to revisit my previously cultivated interests of web design and blogging. I'm using Jekyll, the static site generator, along with Github Pages to create this site. I figured I've used Wordpress before (see: [Shear Ji-nius](http://shearjinius.com/)) as well as Blogspot (see: [summer blog from Thailand my sophomore year of college](http://kevinji.blogspot.com/)).
+I'm also excited to revisit my previously cultivated interests of web design and blogging. I'm using Jekyll, the static site generator, along with Github Pages to create this site. I figured I've used Wordpress before (see: [Shear Ji-nius](http://shearjinius.com/)) as well as Blogspot (see: [summer blog from Thailand my sophomore year of college](http://kevinji.blogspot.com/)) so I should try something new.
 
-Specifically, I used Jekyll Now to set up Jekyll, since I literally have no idea how to use Github or RubyGems or any of that on my own. Luckily, this dude hooked me up. Check out his repo here on GitHub: [Jekyll Now repository](https://github.com/barryclark/jekyll-now)
+Specifically, I used Jekyll Now to set up Jekyll, since I literally have no idea how to use Github or RubyGems or any of that on my own. Luckily, my dude Barry Clark hooked it up. Check out his repo here on GitHub: [Jekyll Now Repository](https://github.com/barryclark/jekyll-now).
 
-I'm hoping to keep a semi-regular log of fun math (and maybe some non-math stuff...) going on in my classes, mostly for me to look back on nostalgically one day, but also hopefully to spark dialogue with other rad teachers. Stay tuned!
+I'm hoping to keep a semi-regular log of fun stuff going on in my classes, mostly for me to look back on nostalgically one day, but also hopefully to spark dialogue with other rad teachers. Stay tuned!
 
 Here's some fun Outside Math we did in Geometry yesterday -- thanks to Peg Cagle for the idea and awesome session at Asilomar last December. Definitely excited to use this lovely life-sized coordinate grid outside my room more often this year.
 <br>
