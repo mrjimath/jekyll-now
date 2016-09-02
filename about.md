@@ -14,7 +14,7 @@ I currently teach at Oakland Technical High School in Oakland, CA. I'm new to bl
 ### If you want to talk with me:
 
 Email: [kevinseanji@gmail.com](mailto:kevinseanji@gmail.com)
-Twitter: [@mrjimath](https://twitter.com/mrjimath)
+<p>Twitter: [@mrjimath](https://twitter.com/mrjimath)
 
 ### If you want a haircut (click):
 
