@@ -8,13 +8,14 @@ I currently teach at Oakland Technical High School in Oakland, CA. I'm new to bl
 
 ### If you want to be like me:
 
-<IMG SRC="http://i.imgur.com/AifuXIe.jpg" ALT="How To Be A Mr. Ji">
+<a href="https://www.instagram.com/mrjimath/">
+<img border="0" alt="How To Be A Mr. Ji" src="http://i.imgur.com/AifuXIe.jpg" width="300" height="300">
 
-### If you want to email me:
+### If you want to email me
 
 [kevinseanji@gmail.com](mailto:kevinseanji@gmail.com)
 
-### If you want a haircut:
+### If you want a haircut (click):
 
-<a href="www.shearjinius.com">
+<a href="https://www.shearjinius.com/">
 <img border="0" alt="Shear Ji-nius" src="http://i.imgur.com/Lfj8K3K.png">
