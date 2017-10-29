@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Jekyll and Hi
+tags:
+- Outside Math
+- Geometry
+- Blogging
 ---
 
 I'm so excited to start blogging about math and teaching.
