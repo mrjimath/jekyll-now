@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I currently teach at Oakland Technical High School in Oakland, CA. I'm new to blogging and am still toying around with this site to make it something I really love. Bear with me!
+I currently teach at Oakland Tech HS in Oakland, CA. This blog has no agenda or theme right now. Let's see what happens.
 
 ### If you want to talk with me privately:
 
