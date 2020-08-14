@@ -12,7 +12,7 @@ I currently teach at Oakland Tech HS in Oakland, CA. This blog has no agenda or 
 
 ### If you want to talk with me publicly:
 
-<a href="https://twitter.com/mrjimath" target="_blank">@mrjimath</a>
+<a href="https://twitter.com/kevinji" target="_blank">@kevinji</a>
 
 ### If you want to be like me:
 
