@@ -6,7 +6,7 @@
 name: mrjimath
 
 # Short bio or description (displayed in the header)
-description: Just your neighborhood, 3.14 friendly math teacher's blog.
+description: Just your neighborhood, 3.14 friendly math teacher's website / blog.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://i.imgur.com/q2pPnQr.jpg
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: mrjimath
+  twitter: kevinji
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
